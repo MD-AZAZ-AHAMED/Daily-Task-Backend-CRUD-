@@ -92,6 +92,4 @@ curl -X POST http://localhost:3000/notes -H "Content-Type: application/json" -d 
 
 Feel free to fork and contribute to this project.
 
-## License
 
-ISC
